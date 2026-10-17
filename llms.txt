@@ -25,12 +25,12 @@ The Facebook link is the personal profile shown as Omar Halawi.
 
 - He is an instructor and tutor. He is not described as an IELTS examiner.
 - No band score, certificate, or student count was provided.
-- The identity banner shows the crests of Georgetown University, Qatar University, Community College of Qatar (CCQ), Lusail University, the College of Business and Economics at Qatar University, and the University of Doha for Science and Technology. These names are printed on the logo he supplied. Employment or graduation at those universities was not stated.
-- No website domain was provided yet.
+- Lessons are for students from all local and international universities. The banner is an identity graphic, not a list of the only universities served.
+- Website: https://omar-halawah-app.vercel.app/
 
 ## Pages
 
-- Arabic home: index.html
-- English home: en/index.html
-- Arabic digital card: card.html
-- English digital card: en/card.html
+- Arabic home: https://omar-halawah-app.vercel.app/
+- English home: https://omar-halawah-app.vercel.app/en/
+- Arabic digital card: https://omar-halawah-app.vercel.app/card.html
+- English digital card: https://omar-halawah-app.vercel.app/en/card.html

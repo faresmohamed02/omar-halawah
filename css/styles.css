@@ -30,7 +30,7 @@ body {
 }
 
 body.page-card {
-  background: #24140f;
+  background: #24302c;
   color: var(--cream);
 }
 
@@ -114,7 +114,7 @@ html[lang="en"] h2 {
 }
 
 body.page-card .header {
-  background: rgba(36, 20, 15, 0.92);
+  background: rgba(36, 48, 44, 0.92);
   border-bottom-color: rgba(246, 241, 231, 0.08);
 }
 
@@ -692,7 +692,7 @@ html[dir="ltr"] .home-card {
   inset: 0;
   overflow: hidden;
   border-radius: 22px;
-  box-shadow: 0 24px 50px rgba(40, 10, 18, 0.28);
+  box-shadow: 0 24px 50px rgba(20, 32, 28, 0.28);
 }
 
 .scene .face {
@@ -702,8 +702,9 @@ html[dir="ltr"] .home-card {
 
 .face-front {
   background:
-    radial-gradient(90% 55% at 100% 0%, rgba(230, 205, 150, 0.2), transparent 55%),
-    linear-gradient(165deg, #8d3148 0%, #5a1a30 46%, #3c1220 100%);
+    radial-gradient(90% 55% at 100% 0%, rgba(224, 122, 47, 0.42), transparent 52%),
+    radial-gradient(70% 50% at 0% 100%, rgba(214, 214, 210, 0.22), transparent 48%),
+    linear-gradient(165deg, #3d9a62 0%, #1f7a49 46%, #14382c 100%);
   color: var(--cream);
   padding: 34px 28px 26px;
   display: flex;
@@ -713,7 +714,8 @@ html[dir="ltr"] .home-card {
 }
 
 .face-back {
-  background: #fbf7f1;
+  background:
+    linear-gradient(180deg, #f7f6f3 0%, #e7e5e1 100%);
   color: var(--ink);
   padding: 32px 26px 22px;
   display: flex;
@@ -730,11 +732,20 @@ html[dir="ltr"] .home-card {
 }
 
 .face-front::after {
-  border: 1px solid rgba(228, 208, 164, 0.45);
+  border: 1px solid rgba(224, 122, 47, 0.72);
 }
 
 .face-back::after {
-  border: 1px solid rgba(114, 36, 60, 0.22);
+  border: 1px solid rgba(31, 122, 73, 0.28);
+}
+
+.face-back .btn-solid {
+  background: #1f7a49;
+  color: #f7f6f3;
+}
+
+.face-back .row a {
+  color: #1a6840;
 }
 
 .card-top {
@@ -760,12 +771,12 @@ html[dir="ltr"] .home-card {
   height: 74px;
   margin: 8px auto 6px;
   border-radius: 50%;
-  border: 1px solid rgba(228, 208, 164, 0.85);
+  border: 1px solid rgba(224, 122, 47, 0.9);
   display: grid;
   place-items: center;
   font-family: "Cormorant Garamond", Georgia, serif;
   font-size: 28px;
-  color: #f3e6c8;
+  color: #f4d7bc;
   letter-spacing: 0.06em;
 }
 
@@ -798,7 +809,7 @@ html[dir="ltr"] .home-card {
 .gold-line {
   width: 48px;
   height: 1px;
-  background: #e4d0a4;
+  background: #e07a2f;
   margin: 12px auto;
 }
 

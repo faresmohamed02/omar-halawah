@@ -28,5 +28,4 @@ Allow: /
 User-agent: Applebot
 Allow: /
 
-# After the domain is connected, uncomment the next line and replace example.com:
-# Sitemap: https://example.com/sitemap.xml
+Sitemap: https://omar-halawah-app.vercel.app/sitemap.xml
