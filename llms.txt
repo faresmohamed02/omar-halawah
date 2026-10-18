@@ -26,11 +26,11 @@ The Facebook link is the personal profile shown as Omar Halawi.
 - He is an instructor and tutor. He is not described as an IELTS examiner.
 - No band score, certificate, or student count was provided.
 - Lessons are for students from all local and international universities. The banner is an identity graphic, not a list of the only universities served.
-- Website: https://omar-halawah-app.vercel.app/
+- Website: https://ieltsqatar-tutoromar.com/
 
 ## Pages
 
-- Arabic home: https://omar-halawah-app.vercel.app/
-- English home: https://omar-halawah-app.vercel.app/en/
-- Arabic digital card: https://omar-halawah-app.vercel.app/card.html
-- English digital card: https://omar-halawah-app.vercel.app/en/card.html
+- Arabic home: https://ieltsqatar-tutoromar.com/
+- English home: https://ieltsqatar-tutoromar.com/en/
+- Arabic digital card: https://ieltsqatar-tutoromar.com/card.html
+- English digital card: https://ieltsqatar-tutoromar.com/en/card.html

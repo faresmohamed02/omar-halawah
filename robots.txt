@@ -28,4 +28,4 @@ Allow: /
 User-agent: Applebot
 Allow: /
 
-Sitemap: https://omar-halawah-app.vercel.app/sitemap.xml
+Sitemap: https://ieltsqatar-tutoromar.com/sitemap.xml
